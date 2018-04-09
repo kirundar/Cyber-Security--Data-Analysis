@@ -1,7 +1,5 @@
 # Cyber-Security--Data-Analysis
-
-Process Flow
-																																																							
+																				
 Step-by-step Process:
 1.	Downloaded Data from http://csr.lanl.gov/data/cyber1/
 2.	Adopted the sampling Strategy to handle 64 GB of data
@@ -15,5 +13,4 @@ Analysis:
 2. NTLM, Kerberos, and Negotiate authentication are more secure forms of authentication because the user name and password are hashed before being sent across the network. When NTLM, Kerberos, or Negotiate authentication are enabled, the user's browser proves its knowledge of the password through a cryptographic exchange with your Forefront TMG server, involving hashing. 
 
 Recommendation:
-Authentication Bypass
-The whole purpose of authentication is to ensure that only authorized users gain access to the application capabilities and the information it contains.  It is essential therefore that the system verifies the “authentication status” of the user for every user action or request before it is carried out. The ability of a user to access any application feature or resource without having first authenticated represents a Weak Authentication vulnerability.
+Authentication Bypass-The whole purpose of authentication is to ensure that only authorized users gain access to the application capabilities and the information it contains.  It is essential therefore that the system verifies the “authentication status” of the user for every user action or request before it is carried out. The ability of a user to access any application feature or resource without having first authenticated represents a weak Authentication vulnerability.
